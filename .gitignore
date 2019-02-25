@@ -1,2 +1,5 @@
 img/*
 *.pyc
+*.xml
+.idea/*
+.ipynb_checkpoints/*
